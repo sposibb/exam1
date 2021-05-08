@@ -5610,7 +5610,7 @@ template {
 }
 
 .section4_place {
-  margin-left: 200px;
+  margin-left: 10%;
   margin-bottom: 120px;
 }
 
@@ -5639,7 +5639,7 @@ template {
 }
 
 .section5 {
-  background: url(/image/render.png) center center no-repeat;
+  background: url(/image/spain.png) center center no-repeat;
   background-size: cover;
   height: 684px;
 }
@@ -5686,7 +5686,7 @@ template {
 }
 
 .section5_place {
-  margin-left: 200px;
+  margin-left: 50%;
   margin-bottom: 120px;
 }
 
