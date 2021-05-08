@@ -203,3 +203,146 @@
     margin-top: 107px;
   }
 }
+.section4 {
+  background: url(/image/render.png) center center no-repeat;
+  background-size: cover;
+  height: 684px;
+  &__place {
+    height: 344px;
+    width: 648px;
+    background: rgba(35, 35, 35, 0.9);
+  }
+  &__name-city,
+  &__title,
+  &__text-title {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    line-height: 28px;
+    color: #ffffff;
+  }
+  &__name-city {
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+  }
+  &__title {
+    font-weight: normal;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  &__text-title {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+  }
+  &__button {
+    width: 213px;
+    height: 60px;
+    background: #5373fd;
+    font-family: "Aleo";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+}
+.section4_place {
+  margin-left: 200px;
+  margin-bottom: 120px;
+}
+.section4_box_for_place {
+  padding-top: 220px;
+}
+.section4_name-city {
+  padding-left: 32px;
+  padding-top: 44px;
+  margin-bottom: 16px;
+}
+.section4_title {
+  margin-bottom: 16px;
+  padding-left: 32px;
+}
+.section4_text-title {
+  margin-bottom: 24px;
+  padding-left: 32px;
+}
+.section4_button {
+  margin-left: 32px;
+}
+
+.section5 {
+  background: url(/image/render.png) center center no-repeat;
+  background-size: cover;
+  height: 684px;
+  &__place {
+    height: 344px;
+    width: 648px;
+    background: rgba(35, 35, 35, 0.9);
+  }
+  &__name-city,
+  &__title,
+  &__text-title {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    line-height: 28px;
+    color: #ffffff;
+  }
+  &__name-city {
+    font-weight: 300;
+    font-size: 20px;
+    letter-spacing: 0.1em;
+  }
+  &__title {
+    font-weight: normal;
+    font-size: 20px;
+    text-transform: uppercase;
+  }
+  &__text-title {
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.1em;
+  }
+  &__button {
+    width: 213px;
+    height: 60px;
+    background: #5373fd;
+    font-family: "Aleo";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+}
+.section5_place {
+  margin-left: 200px;
+  margin-bottom: 120px;
+}
+.section5_box_for_place {
+  padding-top: 220px;
+}
+.section5_name-city {
+  padding-left: 32px;
+  padding-top: 44px;
+  margin-bottom: 16px;
+}
+.section5_title {
+  margin-bottom: 16px;
+  padding-left: 32px;
+}
+.section5_text-title {
+  margin-bottom: 24px;
+  padding-left: 32px;
+}
+.section5_button {
+  margin-left: 32px;
+}
