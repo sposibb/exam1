@@ -102,19 +102,36 @@
 }
 .header {
   background: #5373fd;
-  & {
+  display: flex;
+  flex-wrap: nowrap;
+
+  &__title {
     font-family: "Josefin Sans";
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
     line-height: 28px;
-    /* or 117% */
-
     letter-spacing: 0.1em;
     text-transform: uppercase;
-
-    /* White */
-
     color: #ffffff;
+    padding-top: 32px;
+    padding-bottom: 32px;
+    padding-left: 18%;
+  }
+  &__list {
+    font-family: "Aleo";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding-left: 20%;
+  }
+  &__list li {
+    margin-left: 35px;
   }
 }
