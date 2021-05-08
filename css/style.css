@@ -5491,4 +5491,56 @@ template {
 .header__list li {
   margin-left: 35px;
 }
+
+.section2 {
+  background: url(/image/WhyBackground.png) center center no-repeat;
+  background-size: cover;
+}
+.section2__title {
+  font-family: "Aleo";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #ffffff;
+}
+.section2__subtitle {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 28px;
+  letter-spacing: 0.1em;
+  color: #ffffff;
+}
+.section2__button {
+  width: 213px;
+  height: 60px;
+  background: #5373fd;
+  font-family: "Aleo";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+  /* identical to box height, or 125% */
+  text-align: center;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  /* White */
+  color: #ffffff;
+}
+
+.section2_title {
+  margin-top: 190px;
+  margin-bottom: 24px;
+}
+
+.section2_subtitle {
+  margin-bottom: 34px;
+}
+
+.section2_last_photo {
+  margin-bottom: 124px;
+}
 /*# sourceMappingURL=style.css.map */
