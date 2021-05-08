@@ -145,7 +145,7 @@
 .section2 {
   background: url(/image/WhyBackground.png) center center no-repeat;
   background-size: cover;
-  position: relative;
+
   &__title {
     font-family: "Aleo";
     font-style: normal;
@@ -179,19 +179,22 @@
     color: #ffffff;
   }
   &__first-image {
-    position: absolute;
-    left: 900px;
-    top: 100px;
+    width: 350px;
+    height: 220px;
+    margin-top: 124px;
+    margin-bottom: 16px;
   }
   &__second-image {
-    position: absolute;
-    left: 990px;
-    top: 350px;
+    width: 350px;
+    height: 220px;
+    margin-left: 40px;
   }
+
   &__button:hover {
     background: #1f48ff;
   }
 }
+
 .section2_title {
   margin-top: 190px;
   margin-bottom: 24px;
