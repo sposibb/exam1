@@ -5713,4 +5713,81 @@ template {
 .section5_button {
   margin-left: 32px;
 }
+
+.section6 {
+  background: url(/image/BG.png) center center no-repeat;
+  background-size: cover;
+}
+.section6__title {
+  font-family: "Aleo";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 40px;
+  text-transform: capitalize;
+  color: #ffffff;
+  text-align: center;
+}
+.section6__box-for-shadow {
+  background: #333333;
+  height: 280px;
+  margin-bottom: 180px;
+}
+.section6__title2, .section6__text {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  line-height: 28px;
+  color: #ffffff;
+}
+.section6__title2 {
+  font-weight: normal;
+  font-size: 20px;
+  text-transform: uppercase;
+}
+.section6__text {
+  font-weight: 300;
+  font-size: 16px;
+  letter-spacing: 0.1em;
+}
+
+.section6_title {
+  padding-top: 120px;
+  margin-bottom: 60px;
+}
+
+.section6_title2,
+.section6_text {
+  padding-left: 60px;
+}
+
+.footer {
+  background: url(/image/BG-footer.png) center center no-repeat;
+  background-size: cover;
+}
+.footer__title, .footer__subtitle {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  color: #ffffff;
+  text-align: center;
+}
+.footer__title {
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.footer__subtitle {
+  font-family: "Josefin Sans";
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 20px;
+  letter-spacing: 0.2em;
+}
+.footer__svg {
+  display: flex;
+  justify-content: center;
+  padding-right: 100px;
+}
 /*# sourceMappingURL=style.css.map */
