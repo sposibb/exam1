@@ -5495,6 +5495,7 @@ template {
 .section2 {
   background: url(/image/WhyBackground.png) center center no-repeat;
   background-size: cover;
+  position: relative;
 }
 .section2__title {
   font-family: "Aleo";
@@ -5523,12 +5524,20 @@ template {
   font-weight: normal;
   font-size: 16px;
   line-height: 20px;
-  /* identical to box height, or 125% */
   text-align: center;
   letter-spacing: 0.07em;
   text-transform: uppercase;
-  /* White */
   color: #ffffff;
+}
+.section2__first-image {
+  position: absolute;
+  left: 900px;
+  top: 100px;
+}
+.section2__second-image {
+  position: absolute;
+  left: 990px;
+  top: 350px;
 }
 
 .section2_title {
@@ -5540,7 +5549,7 @@ template {
   margin-bottom: 34px;
 }
 
-.section2_last_photo {
+.section2_button {
   margin-bottom: 124px;
 }
 
@@ -5557,6 +5566,7 @@ template {
   text-transform: capitalize;
   color: #ffffff;
   margin-bottom: 59px;
+  margin-left: -66px;
 }
 .section3__svg {
   margin-top: 107px;
@@ -5760,6 +5770,10 @@ template {
   padding-left: 60px;
 }
 
+.section6_title2 {
+  padding-top: 48px;
+}
+
 .footer {
   background: url(/image/BG-footer.png) center center no-repeat;
   background-size: cover;
@@ -5787,7 +5801,19 @@ template {
 }
 .footer__svg {
   display: flex;
-  justify-content: center;
-  padding-right: 100px;
+  margin-left: 13%;
+}
+
+.footer_title {
+  padding-top: 80px;
+  margin-bottom: 8px;
+}
+
+.footer_subtitle {
+  margin-bottom: 22px;
+}
+
+.last_svg {
+  margin-bottom: 80px;
 }
 /*# sourceMappingURL=style.css.map */
