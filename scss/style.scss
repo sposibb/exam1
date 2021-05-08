@@ -1,10 +1,120 @@
 @import "normalize";
 @import "bootstrap-grid.min";
-@import "bootstrap-utilities.min";
 * {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   text-decoration: none;
   list-style: none;
+}
+.section1 {
+  background: url(/image/HeaderBackground.png) center center no-repeat;
+  background-size: cover;
+  &__title,
+  &__subtitle {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    color: #ffffff;
+    text-align: center;
+    margin: 0 auto;
+  }
+  &__title {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 52px;
+    text-transform: uppercase;
+  }
+  &__subtitle {
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 28px;
+    letter-spacing: 0.31em;
+  }
+  &__input {
+    height: 60px;
+    width: 647px;
+    padding: 36px 20px;
+    margin: 0 auto;
+  }
+  &__input ::placeholder {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.2em;
+    color: #999999;
+  }
+  &__button {
+    background: #5373fd;
+    width: 139px;
+    height: 52px;
+    font-family: "Aleo";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  &__scroll {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 20px;
+    text-align: center;
+    letter-spacing: 0.2em;
+    color: #ffffff;
+  }
+  &__scroll-svg {
+    width: 14px;
+    height: 16px;
+  }
+}
+.section1_title {
+  padding-top: 285px;
+  margin-bottom: 8px;
+}
+.section1_subtitle {
+  margin-bottom: 48px;
+}
+.section1_input {
+  margin-bottom: 211px;
+}
+.section1_button {
+  position: absolute;
+  top: 10px;
+  left: 75%;
+}
+.input_position {
+  margin: 0 auto;
+  width: 647px;
+  position: relative;
+}
+.section1_scroll {
+  margin-bottom: 8px;
+}
+.section1_scroll-svg {
+  margin-left: 49%;
+  margin-bottom: 120px;
+}
+.header {
+  background: #5373fd;
+  & {
+    font-family: "Josefin Sans";
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+    /* or 117% */
+
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+
+    /* White */
+
+    color: #ffffff;
+  }
 }
