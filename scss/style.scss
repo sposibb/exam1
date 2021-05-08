@@ -186,3 +186,20 @@
 .section2_last_photo {
   margin-bottom: 124px;
 }
+.section3 {
+  background: url(/image/BG-mini.png) center center no-repeat;
+  background-size: cover;
+  &__text-after-svg {
+    font-family: "Aleo";
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 40px;
+    text-transform: capitalize;
+    color: #ffffff;
+    margin-bottom: 59px;
+  }
+  &__svg {
+    margin-top: 107px;
+  }
+}
