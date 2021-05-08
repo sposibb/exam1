@@ -5408,6 +5408,9 @@ template {
   text-transform: uppercase;
   color: #ffffff;
 }
+.section1__button:hover {
+  background: #1f48ff;
+}
 .section1__scroll {
   font-family: "Josefin Sans";
   font-style: normal;

@@ -58,6 +58,9 @@
     text-transform: uppercase;
     color: #ffffff;
   }
+  &__button:hover {
+    background: #1f48ff;
+  }
   &__scroll {
     font-family: "Josefin Sans";
     font-style: normal;
