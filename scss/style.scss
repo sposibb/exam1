@@ -12,7 +12,7 @@
   background-size: cover;
   &__title,
   &__subtitle {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     color: #ffffff;
     text-align: center;
@@ -37,7 +37,7 @@
     margin: 0 auto;
   }
   &__input::placeholder {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -50,7 +50,7 @@
     background: #5373fd;
     width: 139px;
     height: 52px;
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -63,7 +63,7 @@
     background: #1f48ff;
   }
   &__scroll {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -110,7 +110,7 @@
   flex-wrap: nowrap;
 
   &__title {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -123,7 +123,7 @@
     padding-left: 18%;
   }
   &__list {
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
@@ -148,7 +148,7 @@
   background-size: cover;
 
   &__title {
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -157,7 +157,7 @@
     color: #ffffff;
   }
   &__subtitle {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     font-weight: 300;
     font-size: 16px;
@@ -170,7 +170,7 @@
     width: 213px;
     height: 60px;
     background: #5373fd;
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -210,7 +210,7 @@
   background: url(../image/BG-mini.png) center center no-repeat;
   background-size: cover;
   &__text-after-svg {
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -239,7 +239,7 @@
   &__name-city,
   &__title,
   &__text-title {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     line-height: 28px;
     color: #ffffff;
@@ -265,7 +265,7 @@
     width: 213px;
     height: 60px;
     background: #5373fd;
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -315,7 +315,7 @@
   &__name-city,
   &__title,
   &__text-title {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     line-height: 28px;
     color: #ffffff;
@@ -341,7 +341,7 @@
     width: 213px;
     height: 60px;
     background: #5373fd;
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 16px;
@@ -383,7 +383,7 @@
   background: url(../image/BG.png) center center no-repeat;
   background-size: cover;
   &__title {
-    font-family: "Aleo";
+    font-family: "Aleo, serif";
     font-style: normal;
     font-weight: normal;
     font-size: 36px;
@@ -399,7 +399,7 @@
   }
   &__title2,
   &__text {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     line-height: 28px;
     color: #ffffff;
@@ -431,7 +431,7 @@
   background-size: cover;
   &__title,
   &__subtitle {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     color: #ffffff;
     text-align: center;
@@ -444,7 +444,7 @@
     text-transform: uppercase;
   }
   &__subtitle {
-    font-family: "Josefin Sans";
+    font-family: "Josefin Sans, sans-serif";
     font-style: normal;
     font-weight: normal;
     font-size: 14px;

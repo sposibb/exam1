@@ -5362,7 +5362,7 @@ template {
   background-size: cover;
 }
 .section1__title, .section1__subtitle {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   color: #ffffff;
   text-align: center;
@@ -5387,7 +5387,7 @@ template {
   margin: 0 auto;
 }
 .section1__input::placeholder {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -5400,7 +5400,7 @@ template {
   background: #5373fd;
   width: 139px;
   height: 52px;
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -5413,7 +5413,7 @@ template {
   background: #1f48ff;
 }
 .section1__scroll {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -5467,7 +5467,7 @@ template {
   flex-wrap: nowrap;
 }
 .header__title {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   font-weight: bold;
   font-size: 24px;
@@ -5480,7 +5480,7 @@ template {
   padding-left: 18%;
 }
 .header__list {
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
@@ -5505,7 +5505,7 @@ template {
   background-size: cover;
 }
 .section2__title {
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
@@ -5514,7 +5514,7 @@ template {
   color: #ffffff;
 }
 .section2__subtitle {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   font-weight: 300;
   font-size: 16px;
@@ -5527,7 +5527,7 @@ template {
   width: 213px;
   height: 60px;
   background: #5373fd;
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -5571,7 +5571,7 @@ template {
   background-size: cover;
 }
 .section3__text-after-svg {
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
@@ -5598,7 +5598,7 @@ template {
   background: rgba(35, 35, 35, 0.9);
 }
 .section4__name-city, .section4__title, .section4__text-title {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   line-height: 28px;
   color: #ffffff;
@@ -5624,7 +5624,7 @@ template {
   width: 213px;
   height: 60px;
   background: #5373fd;
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -5678,7 +5678,7 @@ template {
   background: rgba(35, 35, 35, 0.9);
 }
 .section5__name-city, .section5__title, .section5__text-title {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   line-height: 28px;
   color: #ffffff;
@@ -5704,7 +5704,7 @@ template {
   width: 213px;
   height: 60px;
   background: #5373fd;
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 16px;
@@ -5752,7 +5752,7 @@ template {
   background-size: cover;
 }
 .section6__title {
-  font-family: "Aleo";
+  font-family: "Aleo, serif";
   font-style: normal;
   font-weight: normal;
   font-size: 36px;
@@ -5767,7 +5767,7 @@ template {
   margin-bottom: 180px;
 }
 .section6__title2, .section6__text {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   line-height: 28px;
   color: #ffffff;
@@ -5802,7 +5802,7 @@ template {
   background-size: cover;
 }
 .footer__title, .footer__subtitle {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   color: #ffffff;
   text-align: center;
@@ -5815,7 +5815,7 @@ template {
   text-transform: uppercase;
 }
 .footer__subtitle {
-  font-family: "Josefin Sans";
+  font-family: "Josefin Sans, sans-serif";
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
