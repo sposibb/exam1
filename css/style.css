@@ -5386,7 +5386,7 @@ template {
   padding: 36px 20px;
   margin: 0 auto;
 }
-.section1__input ::placeholder {
+.section1__input::placeholder {
   font-family: "Josefin Sans";
   font-style: normal;
   font-weight: normal;
