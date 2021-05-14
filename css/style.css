@@ -5396,6 +5396,7 @@ template {
   color: #999999;
 }
 .section1__button {
+  border: none;
   background: #5373fd;
   width: 139px;
   height: 52px;
@@ -5522,6 +5523,7 @@ template {
   color: #ffffff;
 }
 .section2__button {
+  border: none;
   width: 213px;
   height: 60px;
   background: #5373fd;
@@ -5617,6 +5619,7 @@ template {
   letter-spacing: 0.1em;
 }
 .section4__button {
+  border: none;
   width: 213px;
   height: 60px;
   background: #5373fd;
@@ -5696,6 +5699,7 @@ template {
   letter-spacing: 0.1em;
 }
 .section5__button {
+  border: none;
   width: 213px;
   height: 60px;
   background: #5373fd;
