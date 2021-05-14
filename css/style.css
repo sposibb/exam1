@@ -5358,7 +5358,7 @@ template {
 }
 
 .section1 {
-  background: url(/image/HeaderBackground.png) center center no-repeat;
+  background: url(../image/HeaderBackground.png) center center no-repeat;
   background-size: cover;
 }
 .section1__title, .section1__subtitle {
@@ -5500,7 +5500,7 @@ template {
 }
 
 .section2 {
-  background: url(/image/WhyBackground.png) center center no-repeat;
+  background: url(../image/WhyBackground.png) center center no-repeat;
   background-size: cover;
 }
 .section2__title {
@@ -5564,7 +5564,7 @@ template {
 }
 
 .section3 {
-  background: url(/image/BG-mini.png) center center no-repeat;
+  background: url(../image/BG-mini.png) center center no-repeat;
   background-size: cover;
 }
 .section3__text-after-svg {
@@ -5585,7 +5585,7 @@ template {
 }
 
 .section4 {
-  background: url(/image/render.png) center center no-repeat;
+  background: url(../image/render.png) center center no-repeat;
   background-size: cover;
   height: 684px;
 }
@@ -5664,7 +5664,7 @@ template {
 }
 
 .section5 {
-  background: url(/image/spain.png) center center no-repeat;
+  background: url(../image/spain.png) center center no-repeat;
   background-size: cover;
   height: 684px;
 }
@@ -5743,7 +5743,7 @@ template {
 }
 
 .section6 {
-  background: url(/image/BG.png) center center no-repeat;
+  background: url(../image/BG.png) center center no-repeat;
   background-size: cover;
 }
 .section6__title {
@@ -5793,7 +5793,7 @@ template {
 }
 
 .footer {
-  background: url(/image/BG-footer.png) center center no-repeat;
+  background: url(../image/BG-footer.png) center center no-repeat;
   background-size: cover;
 }
 .footer__title, .footer__subtitle {
